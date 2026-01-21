@@ -9,6 +9,19 @@ This project analyzes WhatsApp group chat data to visualize user engagement. It 
 - **📈 Key Metrics** - Summary statistics including total messages, averages, and peak activity
 - **👥 Active User Tracking** - Highlights most engaged users (4+ active days)
 
+## Project Screenshots 
+- Upload whatsapp txt file
+  
+<img width="1791" height="990" alt="Screenshot from 2026-01-21 22-33-25" src="https://github.com/user-attachments/assets/9efddb85-36bc-4b23-90ab-f7289915e42f" />
+
+- Chart View and also stats card
+  
+<img width="1791" height="990" alt="Screenshot from 2026-01-21 22-34-48" src="https://github.com/user-attachments/assets/7371f43e-a1b9-4b00-ae9f-6414d089a871" />
+
+- All Users Active for 4 days in last 7 days
+<img width="1791" height="990" alt="Screenshot from 2026-01-21 22-34-56" src="https://github.com/user-attachments/assets/9dc3e7b5-2eea-47db-8c89-2522ca7067eb" />
+
+
 ## 📋 Table of Contents
 
 - [Installation](#installation)
