@@ -178,13 +178,6 @@ The application processes chat data with the following structure:
 }
 ```
 
-### Calculating User Metrics
-
-The dashboard currently estimates user counts from message volume:
-
-- **Users Messaging** = `messages ÷ 7` (assuming 7 messages per user per day)
-- **Users Joining** = `15-30%` of messaging users
-
 **For accurate metrics**, modify your backend to return:
 ```json
 {
@@ -192,8 +185,8 @@ The dashboard currently estimates user counts from message volume:
     {
       "date": "2021-04-01",
       "messages": 30,
-      "activeUsers": 12,      // Add this
-      "newUsers": 3           // Add this
+      "activeUsers": 12,    
+      "newUsers": 3         
     }
   ]
 }
