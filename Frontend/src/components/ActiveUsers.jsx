@@ -17,7 +17,7 @@ export default function ConsistentContributors({ users }) {
         {visibleUsers.map((user) => (
           <Card key={user.name}>
             <UserInfo>
-              <Avatar src={"https://images.pexels.com/photos/5474040/pexels-photo-5474040.jpeg"} alt="user avatar" />
+              <Avatar src={"https://images.pexels.com/photos/879109/pexels-photo-879109.jpeg"} alt="user avatar" />
               <div>
                 <Name>{user.name}</Name>
                 <Tag>Consistent</Tag>
