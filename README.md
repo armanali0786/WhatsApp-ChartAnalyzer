@@ -4,9 +4,9 @@ This project analyzes WhatsApp group chat data to visualize user engagement. It 
 
 ## 🚀 Features
 
-- **📊 Interactive Visualizations** - Dual bar charts showing daily messaging and joining user activity
 - **📁 Drag & Drop Upload** - Intuitive file upload interface for chat exports
-- **📈 Key Metrics** - Summary statistics including total messages, averages, and peak activity
+- **📊 Interactive Visualizations** - Dual bar charts showing daily messaging and joining user activity
+- **📈 Stats Card** - Summary statistics including total messages, averages, and peak activity
 - **👥 Active User Tracking** - Highlights most engaged users (4+ active days)
 
 ## Project Screenshots 
