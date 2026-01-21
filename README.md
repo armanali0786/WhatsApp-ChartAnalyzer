@@ -267,11 +267,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support, email armanali.shaikh77@gmail.com or open an issue in the GitHub repository.
 
 Linkedin: - https://www.linkedin.com/in/arman-ali-8383081ab
+
 github:- https://github.com/armanali0786
+
 MyPortfolio :- https://portfolio-armanali.netlify.app
 
-- [ ] Multiple chat group comparison
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Arman Ali**
